@@ -19,9 +19,10 @@ https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 ##### Clone the repository at any location of your choice in your local machine:
 ```bash
-$ git clone https://github.com/Kodavali841/stimes.git
-$ cd stimes
+$ git clone https://github.com/Kodavali841/timesofjodhpur.git
+$ cd timesofjodhpur
 ```
+Assuming you are in The cloned folder, please follow the next steps
 ##### Create and active the virtual environment in the current directory:
 ```bash
 $ virtualenv env
@@ -34,28 +35,26 @@ $ pip install -r requirements.txt
 
 ##### Running the server
 ```bash
-$ cd times
 $ python manage.py runserver
 ```
 ### FOR WINDOWS:
 
 ##### Clone the repository at any location of your choice in your local machine:
 ```bash
-> git clone https://github.com/Kodavali841/stimes.git
-> cd stimes
+>> git clone https://github.com/Kodavali841/timesofjodhpur.git
+>> cd timesofjodhpur
 ```
 ##### Create and active the virtual environment in the current directory:
 ```bash
-> virtualenv env
-> .\env\scripts\activate
+>> virtualenv env
+>> .\env\scripts\activate
 ```
 ##### installing the requirements in your virtual enviroment
 ```bash
-> pip install -r requirements.txt
+>> pip install -r requirements.txt
 ```
 
 ##### Running the server
 ```bash
-> cd times
 > python manage.py runserver
 ```
