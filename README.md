@@ -56,5 +56,5 @@ $ python manage.py runserver
 
 ##### Running the server
 ```bash
-> python manage.py runserver
+>> python manage.py runserver
 ```
